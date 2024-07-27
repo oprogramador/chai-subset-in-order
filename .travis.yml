@@ -1,7 +1,7 @@
 sudo: false
 language: node_js
 node_js:
-  - 14
+  - 14.21.3
   - node
 script:
   - yarn install --non-interactive
